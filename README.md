@@ -10,7 +10,7 @@ You can see the **Controls** and **Rules** below
 ## Demo 
 
 
-**Play** Click [Here]()
+**Play** Click [Here](https://shubhkpatel.github.io/2D-Shooting-Game/)
 
 ## Credits
 I have learnt this beautiful skill of making a game using JavaScript from Abhi Singh -> 
